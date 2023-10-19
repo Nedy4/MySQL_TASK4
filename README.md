@@ -47,4 +47,5 @@ The SQL function/syntax as seen in the snipshot below is used,which when approxi
 - --
 
 ## **Conclusion**
+With the above SQL functions/syntax,it was possible to solve the problems and provided result
 
